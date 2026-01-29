@@ -7,6 +7,8 @@
 [![Ollama](https://img.shields.io/badge/Ollama-AI-blue?logo=ollama)](https://ollama.com/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)](https://docs.python.org/3/library/tkinter.html)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)](https://opencv.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
 A real-time camera application that uses **Ollama vision models** (like **Qwen3-VL-2B-Instruct**, **LLaVA**, **Moondream**, etc.) to analyze webcam frames and generate concise visual descriptions — all through a clean **Tkinter GUI**.
@@ -179,11 +181,6 @@ Built with:
 
 ---
 
-If you want, I can also:
 
-* Add **screenshots**
-* Write a **short project description for GitHub**
-* Create a **requirements.txt**
-* Refactor this into a **pip-installable package**
 
 Just say the word 🚀
