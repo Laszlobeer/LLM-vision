@@ -6,7 +6,6 @@
 
 [![Ollama](https://img.shields.io/badge/Ollama-AI-blue?logo=ollama)](https://ollama.com/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)](https://docs.python.org/3/library/tkinter.html)
-[![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-yellow)](https://python-pillow.org/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 
 
