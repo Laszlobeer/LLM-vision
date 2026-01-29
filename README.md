@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)](https://opencv.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
+![demo](demo.gif)
 
 A real-time camera application that uses **Ollama vision models** (like **Qwen3-VL-2B-Instruct**, **LLaVA**, **Moondream**, etc.) to analyze webcam frames and generate concise visual descriptions — all through a clean **Tkinter GUI**.
 
